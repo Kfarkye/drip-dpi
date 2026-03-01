@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-03-01",
-  "total_wallets_scored": 207,
+  "total_wallets_scored": 256,
   "formula_version": "1.0",
   "weights": {
     "decay": 0.45,
@@ -14,6 +14,6 @@
     "pnl_6_9mo": 0.5,
     "pnl_9_12mo": 0.25
   },
-  "top_wallet": "0x7aa4...ad73",
-  "top_dpi": 105.4
+  "top_wallet": "0xd91a...4f27",
+  "top_dpi": 102.9
 }
