@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-03-01",
+  "total_wallets_scored": 500,
+  "formula_version": "1.0",
+  "weights": {
+    "decay": 0.45,
+    "yield": 0.35,
+    "conviction": 0.2,
+    "versatility": "1.00-1.12x multiplier (not in base)"
+  },
+  "decay_tiers": {
+    "pnl_0_3mo": 1.0,
+    "pnl_3_6mo": 0.75,
+    "pnl_6_9mo": 0.5,
+    "pnl_9_12mo": 0.25
+  },
+  "top_wallet": "0xefd0...4195",
+  "top_dpi": 101.8
+}
